@@ -1,0 +1,46 @@
+INFO 2024-04-14 20:39:38,563 root  we are trying to make a list constructor
+INFO 2024-04-14 20:39:38,563 root  we are trying to extract all the list entities
+INFO 2024-04-14 20:39:38,563 root  [[1, 2, 3, 4]]
+INFO 2024-04-14 20:39:38,563 root  [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2024-04-14 20:39:38,563 root  we are trying to extract all the tuple entities
+INFO 2024-04-14 20:39:38,563 root  [(2, 3, 4, 5, 6)]
+INFO 2024-04-14 20:39:38,563 root  [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2024-04-14 20:39:38,563 root  we are trying to extract all the dictionary entities
+INFO 2024-04-14 20:39:38,563 root  [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2024-04-14 20:39:38,563 root  we are trying to extract all the numeric data
+INFO 2024-04-14 20:39:38,563 root  [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 3, 6, 7, 8]
+INFO 2024-04-14 20:39:38,563 root  we are trying to extract all the numeric data
+INFO 2024-04-14 20:39:38,563 root  156
+INFO 2024-04-14 20:39:38,563 root  we are trying to extract all the odd numeric data
+INFO 2024-04-14 20:39:38,563 root  110
+INFO 2024-04-14 20:39:38,563 root  we are trying to extract all the odd numeric data
+INFO 2024-04-14 20:39:38,563 root  ['ineuron', 'ineuron']
+INFO 2024-04-14 20:39:38,563 root  we are trying to extract all the data and its occurance
+INFO 2024-04-14 20:39:38,563 root  kumar : 1
+INFO 2024-04-14 20:39:38,563 root  1 : 1
+INFO 2024-04-14 20:39:38,563 root  2 : 2
+INFO 2024-04-14 20:39:38,563 root  3 : 4
+INFO 2024-04-14 20:39:38,563 root  4 : 4
+INFO 2024-04-14 20:39:38,563 root  5 : 3
+INFO 2024-04-14 20:39:38,564 root  6 : 3
+INFO 2024-04-14 20:39:38,564 root  7 : 2
+INFO 2024-04-14 20:39:38,564 root  k1 : 1
+INFO 2024-04-14 20:39:38,564 root  8 : 1
+INFO 2024-04-14 20:39:38,564 root  data science : 1
+INFO 2024-04-14 20:39:38,564 root  45 : 1
+INFO 2024-04-14 20:39:38,564 root  k3 : 1
+INFO 2024-04-14 20:39:38,564 root  23 : 1
+INFO 2024-04-14 20:39:38,564 root  ineuron : 2
+INFO 2024-04-14 20:39:38,564 root  sudh : 1
+INFO 2024-04-14 20:39:38,564 root  k2 : 1
+INFO 2024-04-14 20:39:38,564 root  we are trying to extract all the string data
+INFO 2024-04-14 20:39:38,564 root  ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science']
+INFO 2024-04-14 20:39:38,564 root  we are trying to extract all the keys from dictionary
+INFO 2024-04-14 20:39:38,564 root  ['k1', 'k2', 'k3', 3, 7]
+INFO 2024-04-14 20:39:38,564 root  We are filtering out all the alphanumeric data
+INFO 2024-04-14 20:39:38,564 root  ['k1', 'k2', 'k3']
+INFO 2024-04-14 20:39:38,564 root  We are filtering out all the alphanumeric data and giving out product of it
+INFO 2024-04-14 20:39:38,564 root  [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 3, 6, 7, 8]
+INFO 2024-04-14 20:39:38,564 root  908605071360000
+INFO 2024-04-14 20:39:38,564 root  We are trying to filter out all data and creating a new list
+INFO 2024-04-14 20:39:38,564 root  [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 3, 6, 7, 8, 'ineuron', 'data science']

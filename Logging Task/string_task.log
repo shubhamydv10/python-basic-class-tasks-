@@ -1,0 +1,23 @@
+INFO 2024-04-11 21:30:25,430 root  we are making a string constructor
+INFO 2024-04-11 21:30:25,430 root  we are jumping 3 values in a string
+INFO 2024-04-11 21:30:25,430 root  The string after 3 jump is tssyityopgmncsa alrNph rgni ni
+INFO 2024-04-11 21:30:25,431 root  We are trying to reverse the string without using reverse function
+INFO 2024-04-11 21:30:25,431 root  The reversed string is noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO 2024-04-11 21:30:25,431 root  we are trying to covert string in uppercase
+INFO 2024-04-11 21:30:25,431 root  we are trying to split the string after converting it into upper
+INFO 2024-04-11 21:30:25,431 root  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2024-04-11 21:30:25,431 root  We are converting the string into lowercase
+INFO 2024-04-11 21:30:25,431 root  this is my first python programming class and i am learning python string and its function
+INFO 2024-04-11 21:30:25,431 root  We are trying to capitalize string 
+INFO 2024-04-11 21:30:25,431 root  This is my first python programming class and i am learning python string and its function
+INFO 2024-04-11 21:30:25,431 root  We are try to perform strip operation
+INFO 2024-04-11 21:30:25,431 root  shubham
+INFO 2024-04-11 21:30:25,431 root  We are try to perform left strip operation
+INFO 2024-04-11 21:30:25,431 root  shubham             
+INFO 2024-04-11 21:30:25,431 root  We are try to perform right strip operation
+INFO 2024-04-11 21:30:25,431 root             shubham
+INFO 2024-04-11 21:30:25,431 root  We are doing replacement inside string
+INFO 2024-04-11 21:30:25,431 root  the u in shubham is replaced by z
+INFO 2024-04-11 21:30:25,431 root             shzbham             
+INFO 2024-04-11 21:30:25,431 root  Trying tu use center function in string
+INFO 2024-04-11 21:30:25,431 root  QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ           shubham             QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
